@@ -1,4 +1,4 @@
-# Share to Minds
+# Share to Minds Wordpress Plugin
 
 ## Contributors:
 
